@@ -17,8 +17,8 @@ ASSIGNMENT RULES
 2. numbers
 3. booleans - true/false value
 4. undefined - a variable without a value
-5. objects - 
-6. arrays
+
+
  */
 
 /* EXERCISE 2
