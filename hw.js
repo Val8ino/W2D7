@@ -12,15 +12,6 @@ ASSIGNMENT RULES
  Enumerate and describe the main datatypes in JavaScript. Try to explain the concepts as you were speaking to a 12 years old.
 */
 
-/* 
-1. strings - piece of text
-2. numbers
-3. booleans - true/false value
-4. undefined - a variable without a value
-
-
- */
-
 /* EXERCISE 2
  Try to describe what a variable is, in your own words.
 */
